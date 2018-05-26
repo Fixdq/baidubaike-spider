@@ -1,0 +1,8 @@
+/build
+**/.idea/
+/.gradle
+*.pyc
+*.pyo
+__pycache__
+*.mp4
+*.mp3
